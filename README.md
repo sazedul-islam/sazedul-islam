@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center" width="100%">
   <a href="https://www.facebook.com/sadatriyad.dev">
-    <img src="https://i.ibb.co/4RmwKQr/9mw01i.jpg" alt="banner" width="100%">
+    <img src="[https://i.ibb.co/4RmwKQr/9mw01i.jpg" alt="banner" width="100%](https://media.licdn.com/dms/image/v2/D5616AQHkJ5TQrtfXkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723618443409?e=1736380800&v=beta&t=GdpU0IxuDQ6nBAegFIU9tUbUkVYNggvOOKUvx_jJY9s)">
   </a>
 </p>
 
