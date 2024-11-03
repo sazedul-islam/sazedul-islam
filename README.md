@@ -48,7 +48,7 @@ I am passionate about coding and have learned various technologies over the year
   <div align="center" width="100%">
     <div width="100%">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width=390 src="https://streak-stats.demolab.com/?user=sadatriyad&theme=react&border=61dafb&hide_border=true" alt="sazedul-islam />
+      <img width=390 src="https://streak-stats.demolab.com/?user=sazedul-islam&theme=react&border=61dafb&hide_border=true" alt="sazedul-islam />
     </a>
     </div>
     <div width="100%">
