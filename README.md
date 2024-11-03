@@ -106,7 +106,8 @@ ___
 
 <p>
   <a href="sazedul-islam.github.io/dental/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sazedul-islam&repo=sazedul-islam.github.io/dental/&show_owner=true&hide_border=true" alt="Project 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sazedul-islam&repo=dental
+&show_owner=true&hide_border=true" alt="Project 1">
   </a>
 </p>
 //
