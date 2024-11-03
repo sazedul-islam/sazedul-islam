@@ -64,7 +64,7 @@ ___
 ### Most Used Languages 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatriyad&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazedul-islam&layout=compact" alt="Top Languages">
 </p>
 
 ---
@@ -72,7 +72,7 @@ ___
 ### Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadatriyad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sazedul-islam&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ___
@@ -107,7 +107,7 @@ ___
 
 <p>
   <a href="sazedul-islam.github.io/dental/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment12-Client&show_owner=true&hide_border=true" alt="Project 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sazedul-islam&repo=dental&show_owner=true&hide_border=true" alt="Project 1">
   </a>
 </p>
 
