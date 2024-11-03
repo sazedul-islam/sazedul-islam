@@ -106,10 +106,10 @@ ___
 
 <p>
   <a href="sazedul-islam.github.io/dental/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sazedul-islam&repo=dental&show_owner=true&hide_border=true" alt="Project 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sazedul-islam&repo=sazedul-islam.github.io/dental/&show_owner=true&hide_border=true" alt="Project 1">
   </a>
 </p>
-
+//
 <p align="center">
   <a href="https://github.com/sadatriyad/PH-Assignment11-Client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment11-Client&show_owner=true&hide_border=true" alt="Project 2">
@@ -121,3 +121,4 @@ ___
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment10-Client&show_owner=true&hide_border=true" alt="Project 3">
   </a>
 </p>
+*\
