@@ -1,5 +1,5 @@
-### Hi there 👋, Assalamu Alaikum, I'm Sazedul Islam
-#### Web Development
+#### Assalamu Alaikum, I'm Sazedul Islam
+### Web Development
 ![Web Development](https://media.licdn.com/dms/image/v2/D5616AQHkJ5TQrtfXkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723618443409?e=1736380800&v=beta&t=GdpU0IxuDQ6nBAegFIU9tUbUkVYNggvOOKUvx_jJY9s)
 
 I am passionate about coding and have learned various technologies over the years. My journey started with C programming and has expanded to include Front End Web Development. Currently, I'm exploring Backend Development and diving deeper into the MERN stack. Below is a brief overview of my skills and interests:
