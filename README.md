@@ -7,7 +7,7 @@
 
 ---
 
-## Assalamu Alaikum, I'm Sadat Riyad
+## Assalamu Alaikum, I'm Sazedul Islam
 **Front End Developer | UI/UX Designer**
 
 I am passionate about coding and have learned various technologies over the years. My journey started with C programming and has expanded to include Front End Web Development. Currently, I'm exploring Backend Development and diving deeper into the MERN stack. Below is a brief overview of my skills and interests:
@@ -15,8 +15,8 @@ I am passionate about coding and have learned various technologies over the year
 ---
 
 ### Skills
-- **Programming Languages:** C, C++, JavaScript
-- **Web Technologies:** HTML, CSS, React, Bootstrap, Tailwind, jQuery, WordPress, Shopify 
+- **Programming Languages:** C, JavaScript
+- **Web Technologies:** HTML, CSS, React, Bootstrap, Tailwind, jQuery, WordPress
 - **Design Tools:** Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Canva
 - **Additional Skills:** Git, GitHub, ChatGPT
 
@@ -34,7 +34,7 @@ I am passionate about coding and have learned various technologies over the year
 ### Contact Me
 
 <p align="center">
-  <a href="https://github.com/SadatRiyad" class="contact-badge"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/sazedul-islam" class="contact-badge"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>&nbsp;
   <a href="mailto:sadatriyad.dev@gmail.com" class="contact-badge"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>&nbsp;
   <a href="https://www.linkedin.com/in/sadatriyad/" class="contact-badge"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="https://www.facebook.com/sadatriyad.dev" class="contact-badge"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>&nbsp;
@@ -107,7 +107,7 @@ ___
 <!-- Dynamic project cards with descriptions -->
 
 <p>
-  <a href="https://github.com/sadatriyad/PH-Assignment12-Client">
+  <a href="sazedul-islam.github.io/dental/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment12-Client&show_owner=true&hide_border=true" alt="Project 1">
   </a>
 </p>
