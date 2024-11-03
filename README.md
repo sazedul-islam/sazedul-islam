@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center" width="100%">
-  <a href="https://www.facebook.com/sadatriyad.dev">
-    <img src="[https://i.ibb.co/4RmwKQr/9mw01i.jpg" alt="banner" width="100%](https://media.licdn.com/dms/image/v2/D5616AQHkJ5TQrtfXkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723618443409?e=1736380800&v=beta&t=GdpU0IxuDQ6nBAegFIU9tUbUkVYNggvOOKUvx_jJY9s)">
+  <a href="https://www.facebook.com/Sazadul.2001">
+    <img src="https://media.licdn.com/dms/image/v2/D5616AQHkJ5TQrtfXkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723618443409?e=1736380800&v=beta&t=GdpU0IxuDQ6nBAegFIU9tUbUkVYNggvOOKUvx_jJY9s" alt="banner" width="100%">
   </a>
 </p>
 
@@ -123,5 +123,3 @@ ___
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment10-Client&show_owner=true&hide_border=true" alt="Project 3">
   </a>
 </p>
-
-
