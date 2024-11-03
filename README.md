@@ -53,7 +53,7 @@ I am passionate about coding and have learned various technologies over the year
     </div>
     <div width="100%">
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img width=390 src="https://github-readme-stats.vercel.app/api?username=sadatriyad&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=390 src="https://github-readme-stats.vercel.app/api?username=sazedul-islam&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
     </div>
   </div>
