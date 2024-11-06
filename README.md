@@ -118,7 +118,7 @@ ___
 </p>
 
 <p align="end">
-  <a href="https://github.com/sadatriyad/PH-Assignment10-Client">
+  <a href="sazedul-islam.github.io/hockes/">
     <img src="[https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment10-Client&show_owner=true&hide_border=true](https://images.app.goo.gl/oEooY7fwnkLsvNqg8)" alt="Project 3">
   </a>
 </p>
