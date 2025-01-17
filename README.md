@@ -99,27 +99,3 @@ ___
   <img src="https://img.shields.io/badge/-ChatGPT-00DFA2?style=flat&logo=openai&logoColor=white">
 </p>
 
----
-
-### Pinned Repositories
-<!-- Dynamic project cards with descriptions -->
-
-<p>
-  <a href="sazedul-islam.github.io/dental/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sazedul-islam&repo=dental
-&show_owner=true&hide_border=true" alt="Project 1">
-  </a>
-</p>
-//
-<p align="center">
-  <a href="https://github.com/sadatriyad/PH-Assignment11-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment11-Client&show_owner=true&hide_border=true" alt="Project 2">
-  </a>
-</p>
-
-<p align="end">
-  <a href="https://github.com/sazedul-islam/hockes">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment10-Client&show_owner=true&hide_border=true](https://images.app.goo.gl/oEooY7fwnkLsvNqg8)" alt="Project 3">
-  </a>
-</p>
-*\
