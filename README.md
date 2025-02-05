@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center" width="100%">
   <a href="https://www.facebook.com/Sazadul.2001">
-  <img src="https://postimg.cc/q6yGZF7w" alt="banner" width="100%">
+  <img src="https://i.ibb.co.com/DDKj0SNk/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" width="100%">
   </a>
 </p>
 
