@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center" width="100%">
   <a href="https://www.facebook.com/Sazadul.2001">
-    <img src="[https://media.licdn.com/dms/image/v2/D5616AQHkJ5TQrtfXkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723618443409?e=1736380800&v=beta&t=GdpU0IxuDQ6nBAegFIU9tUbUkVYNggvOOKUvx_jJY9s](https://drive.google.com/file/d/1jsYKS1OV1VyK_BOOlvAg_Sw-vuB-a3IL/view)" alt="banner" width="100%">
+    <img src="https://drive.google.com/file/d/1jsYKS1OV1VyK_BOOlvAg_Sw-vuB-a3IL/view" alt="banner" width="100%">
   </a>
 </p>
 
