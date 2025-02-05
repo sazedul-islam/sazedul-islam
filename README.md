@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center" width="100%">
   <a href="https://www.facebook.com/Sazadul.2001">
-    <img src="https://drive.google.com/file/d/1jsYKS1OV1VyK_BOOlvAg_Sw-vuB-a3IL/view" alt="banner" width="100%">
+    <img src="[https://i.ibb.co/4RmwKQr/9mw01i.jpg](https://drive.google.com/file/d/1jsYKS1OV1VyK_BOOlvAg_Sw-vuB-a3IL/view?usp=sharing)" alt="banner" width="100%">
   </a>
 </p>
 
